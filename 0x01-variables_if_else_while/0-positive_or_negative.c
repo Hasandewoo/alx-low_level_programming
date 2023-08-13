@@ -17,7 +17,5 @@ n = rand() - RAND_MAX / 2;
 	printf("%d is zero", n);
 	else
 	printf("%d is negative", n);
-	 printf("\n")
-
-	return (0);
-}
+	printf("\n")
+	return (0); }
